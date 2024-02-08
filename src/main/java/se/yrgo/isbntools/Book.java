@@ -6,6 +6,8 @@ public class Book {
 	private String author;
 
 	private int test;
+
+	private int test2;
 	
 	public Book(String isbn, String title, String author) {
 		this.isbn= isbn;
